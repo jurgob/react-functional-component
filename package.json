@@ -17,7 +17,12 @@
   },
   "author": {
     "name": "Jurgo Boemo",
-    "email": "jurgo.boemo@gmail.com"
+    "email": "jurgo.boemo@gmail.com",
+    "url": "http://jurgo.me/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jurgob/react-functional-component"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
